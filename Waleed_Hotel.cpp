@@ -228,7 +228,7 @@ int main()
     FlightsInfo(fli);
 
     Facility();
-    //--------------------------------------------وهي من جي بي تي بس الاكم سطر تحت هدول
+    //-----------------------------------------------
     HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
     SetConsoleTextAttribute(hConsole, 4);
     cout << "=======================================" << endl;
